@@ -1,0 +1,16 @@
+<pre>DINING PHILOSOPHER PROBLEM
+Enter the total no. of philosophers: 4
+How many are hungry : 2
+Enterphilosopher1position:3
+Enterphilosopher2position:10
+1.One can eat at a time	2.Two can eat at a time	3.Exit
+Enter your choice:2
+
+ Allow two philosophers to eat at sametime
+
+
+combination 1 
+
+P 4 and P 0 are granted to eat1.One can eat at a time	2.Two can eat at a time	3.Exit
+Enter your choice:3
+</pre>
