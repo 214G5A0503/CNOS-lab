@@ -1,0 +1,15 @@
+<pre>Enter how many blocks that are already allocated 
+5
+
+Enter the blocks no.s that are already allocated2
+2
+5
+3
+4
+Enter the starting index block &amp;length10
+2
+
+10-&gt;1
+11-&gt;1
+ If u want to enter one more file? (yes-1/no-0)2
+</pre>
